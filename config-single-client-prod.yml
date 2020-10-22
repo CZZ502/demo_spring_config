@@ -4,4 +4,4 @@ spring:
 local:
     file:
         upload:
-            path: new_prod
+            path: new_new_prod
