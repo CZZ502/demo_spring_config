@@ -1,4 +1,7 @@
 spring:
   application:
     name: single-prod
-local.file.upload.path=prod
+local:
+    file:
+        upload:
+            path: prod

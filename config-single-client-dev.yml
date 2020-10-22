@@ -1,4 +1,7 @@
 spring:
   application:
     name: single-dev
-local.file.upload.path=dev
+local:
+    file:
+        upload:
+            path: dev
